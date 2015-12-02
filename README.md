@@ -1,6 +1,4 @@
 # cirosay
-cirosay
-
 ./cirosay.sh "Olá eu sou o Ciro"
 
                  Olá eu sou o Ciro
